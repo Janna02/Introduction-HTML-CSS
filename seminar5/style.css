@@ -75,7 +75,21 @@ header {
   color: #000000;
 }
 
-.home_3 {
+.home_3::before {
+  padding: 10px 20px;
+  background: #f25822;
+  box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+  border-radius: 15px;
+  border: none;
+  cursor: pointer;
+  font-size: 10px;
+  line-height: 15px;
+  margin: 0x 0px;
+  color: #ffffff;
+  width: 75%;
+}
+
+.home_3:hover {
   padding: 10px 20px;
   background: #f25822;
   box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
