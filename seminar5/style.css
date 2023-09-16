@@ -169,6 +169,7 @@ article {
   grid-template-rows: 1fr;
   gap: 30px;
   margin-top: 250px;
+  margin-bottom: 192px;
 }
 
 .img_card {
@@ -178,6 +179,8 @@ article {
 .card_2 {
   background: #ffffff;
   box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+  width: 370px;
+  height: 291px;
 }
 
 .h3_card {
@@ -185,7 +188,7 @@ article {
   font-size: 24px;
   line-height: 28px;
   color: #000000;
-  padding: 25px 95px 0px 0px;
+  padding: 30px 100px 0px 29px;
 }
 
 .p_card {
@@ -194,14 +197,17 @@ article {
   line-height: 150%;
   color: #666666;
   padding-top: 17px;
+  padding-left: 29px;
 }
 
 .a_card {
+  width: 64px;
+  height: 17px;
   font-family: "Gilroy-Bold";
   font-size: 11px;
   line-height: 150%;
   color: #000000;
-  padding: 25px 246px 0px 0px;
+  padding: 25px 277px 25px 29px;
 }
 
 .h2_card_big {
